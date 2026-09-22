@@ -1,0 +1,151 @@
+unit_id,product_id,title,brand,size,status,base_rental_fee,security_deposit
+UNT-1001,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,XS,rented,166.94,333.88
+UNT-1002,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,44L,available,186.41,279.62
+UNT-1003,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,L,available,206.22,412.44
+UNT-1004,PRD-109,Velvet Dinner Jacket,Alexander McQueen,40R,available,252.5,378.75
+UNT-1005,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,40R,available,227.99,569.98
+UNT-1006,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,S,available,179.49,448.73
+UNT-1007,PRD-110,Pinstripe Tailored Suit,Dior,XL,dry_cleaning,306.76,460.14
+UNT-1008,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,S,rented,221.23,553.07
+UNT-1009,PRD-110,Pinstripe Tailored Suit,Dior,L,rented,197.33,394.66
+UNT-1010,PRD-105,Cashmere Belted Trench Coat,Burberry,S,dry_cleaning,262.64,787.92
+UNT-1011,PRD-105,Cashmere Belted Trench Coat,Burberry,42R,rented,197.43,493.58
+UNT-1012,PRD-106,Embellished Clutch Bag,Prada,L,rented,136.15,204.23
+UNT-1013,PRD-110,Pinstripe Tailored Suit,Dior,M,rented,229.17,687.51
+UNT-1014,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,XL,maintenance,200.4,400.8
+UNT-1015,PRD-106,Embellished Clutch Bag,Prada,XS,available,82.57,206.42
+UNT-1016,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,XL,available,230.44,576.1
+UNT-1017,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,42R,available,211.45,634.35
+UNT-1018,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,XL,available,334.1,835.25
+UNT-1019,PRD-110,Pinstripe Tailored Suit,Dior,40R,dry_cleaning,253.9,507.8
+UNT-1020,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,44L,rented,336.04,504.06
+UNT-1021,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,M,rented,275.99,413.99
+UNT-1022,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,40R,rented,181.49,453.73
+UNT-1023,PRD-109,Velvet Dinner Jacket,Alexander McQueen,XS,rented,186.04,465.1
+UNT-1024,PRD-106,Embellished Clutch Bag,Prada,S,available,92.65,138.98
+UNT-1025,PRD-105,Cashmere Belted Trench Coat,Burberry,44L,rented,216.0,324.0
+UNT-1026,PRD-105,Cashmere Belted Trench Coat,Burberry,44L,rented,169.87,339.74
+UNT-1027,PRD-109,Velvet Dinner Jacket,Alexander McQueen,44L,dry_cleaning,253.85,761.55
+UNT-1028,PRD-101,Silk Velvet Evening Gown,Gucci,S,in_inspection,303.02,757.55
+UNT-1029,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,XS,available,176.74,265.11
+UNT-1030,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,42R,dry_cleaning,247.58,495.16
+UNT-1031,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,42R,in_inspection,229.72,689.16
+UNT-1032,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,44L,rented,188.99,472.48
+UNT-1033,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,38R,available,186.93,280.39
+UNT-1034,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,L,available,122.1,244.2
+UNT-1035,PRD-110,Pinstripe Tailored Suit,Dior,L,available,303.25,454.88
+UNT-1036,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,S,dry_cleaning,205.96,308.94
+UNT-1037,PRD-109,Velvet Dinner Jacket,Alexander McQueen,L,available,237.96,475.92
+UNT-1038,PRD-110,Pinstripe Tailored Suit,Dior,42R,available,265.68,797.04
+UNT-1039,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,S,available,163.11,489.33
+UNT-1040,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,42R,dry_cleaning,135.96,203.94
+UNT-1041,PRD-101,Silk Velvet Evening Gown,Gucci,40R,rented,292.08,438.12
+UNT-1042,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,L,available,164.86,494.58
+UNT-1043,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,XL,rented,357.41,536.12
+UNT-1044,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,44L,available,251.3,376.95
+UNT-1045,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,L,available,193.42,386.84
+UNT-1046,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,XS,available,130.24,390.72
+UNT-1047,PRD-105,Cashmere Belted Trench Coat,Burberry,42R,available,240.56,721.68
+UNT-1048,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,L,available,374.37,561.56
+UNT-1049,PRD-106,Embellished Clutch Bag,Prada,XS,available,118.14,236.28
+UNT-1050,PRD-101,Silk Velvet Evening Gown,Gucci,44L,available,206.02,309.03
+UNT-1051,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,40R,available,209.03,418.06
+UNT-1052,PRD-110,Pinstripe Tailored Suit,Dior,XS,rented,257.08,642.7
+UNT-1053,PRD-105,Cashmere Belted Trench Coat,Burberry,L,rented,190.84,477.1
+UNT-1054,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,M,rented,163.0,407.5
+UNT-1055,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,XS,rented,249.83,374.75
+UNT-1056,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,44L,available,169.17,422.92
+UNT-1057,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,L,available,157.35,393.38
+UNT-1058,PRD-110,Pinstripe Tailored Suit,Dior,44L,available,320.74,801.85
+UNT-1059,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,M,available,237.87,475.74
+UNT-1060,PRD-105,Cashmere Belted Trench Coat,Burberry,XL,rented,243.29,486.58
+UNT-1061,PRD-105,Cashmere Belted Trench Coat,Burberry,44L,rented,267.69,401.53
+UNT-1062,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,40R,dry_cleaning,144.85,362.12
+UNT-1063,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,XL,available,279.53,838.59
+UNT-1064,PRD-109,Velvet Dinner Jacket,Alexander McQueen,XS,available,302.31,604.62
+UNT-1065,PRD-109,Velvet Dinner Jacket,Alexander McQueen,XS,dry_cleaning,251.55,503.1
+UNT-1066,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,M,available,170.11,255.17
+UNT-1067,PRD-106,Embellished Clutch Bag,Prada,L,rented,133.35,333.38
+UNT-1068,PRD-109,Velvet Dinner Jacket,Alexander McQueen,40R,maintenance,274.93,549.86
+UNT-1069,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,M,dry_cleaning,204.46,511.15
+UNT-1070,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,L,available,216.61,324.92
+UNT-1071,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,XS,dry_cleaning,154.47,463.41
+UNT-1072,PRD-106,Embellished Clutch Bag,Prada,XL,dry_cleaning,149.71,299.42
+UNT-1073,PRD-101,Silk Velvet Evening Gown,Gucci,L,available,219.0,328.5
+UNT-1074,PRD-105,Cashmere Belted Trench Coat,Burberry,38R,rented,201.96,504.9
+UNT-1075,PRD-101,Silk Velvet Evening Gown,Gucci,S,dry_cleaning,216.57,541.42
+UNT-1076,PRD-101,Silk Velvet Evening Gown,Gucci,S,rented,228.4,571.0
+UNT-1077,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,44L,available,228.95,457.9
+UNT-1078,PRD-105,Cashmere Belted Trench Coat,Burberry,XS,rented,150.22,300.44
+UNT-1079,PRD-106,Embellished Clutch Bag,Prada,40R,available,133.14,332.85
+UNT-1080,PRD-110,Pinstripe Tailored Suit,Dior,38R,rented,209.94,524.85
+UNT-1081,PRD-109,Velvet Dinner Jacket,Alexander McQueen,XL,rented,215.67,539.17
+UNT-1082,PRD-109,Velvet Dinner Jacket,Alexander McQueen,M,available,263.09,789.27
+UNT-1083,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,XL,available,350.07,875.17
+UNT-1084,PRD-105,Cashmere Belted Trench Coat,Burberry,L,available,225.4,563.5
+UNT-1085,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,42R,available,189.92,569.76
+UNT-1086,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,S,available,319.49,798.73
+UNT-1087,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,L,rented,164.71,329.42
+UNT-1088,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,XS,available,377.11,565.66
+UNT-1089,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,40R,dry_cleaning,240.59,721.77
+UNT-1090,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,40R,available,251.85,377.77
+UNT-1091,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,40R,available,228.45,685.35
+UNT-1092,PRD-101,Silk Velvet Evening Gown,Gucci,44L,available,298.77,896.31
+UNT-1093,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,42R,rented,377.82,944.55
+UNT-1094,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,44L,available,286.96,860.88
+UNT-1095,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,42R,rented,335.32,838.3
+UNT-1096,PRD-109,Velvet Dinner Jacket,Alexander McQueen,42R,rented,208.44,312.66
+UNT-1097,PRD-105,Cashmere Belted Trench Coat,Burberry,L,available,191.56,287.34
+UNT-1098,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,M,available,324.91,649.82
+UNT-1099,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,40R,available,199.69,599.07
+UNT-1100,PRD-101,Silk Velvet Evening Gown,Gucci,L,dry_cleaning,234.53,351.8
+UNT-1101,PRD-110,Pinstripe Tailored Suit,Dior,40R,rented,340.84,852.1
+UNT-1102,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,40R,rented,210.81,421.62
+UNT-1103,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,L,available,227.99,683.97
+UNT-1104,PRD-106,Embellished Clutch Bag,Prada,40R,rented,147.24,294.48
+UNT-1105,PRD-110,Pinstripe Tailored Suit,Dior,44L,available,253.04,379.56
+UNT-1106,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,40R,available,190.79,286.19
+UNT-1107,PRD-105,Cashmere Belted Trench Coat,Burberry,40R,available,209.11,522.78
+UNT-1108,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,XL,rented,221.51,553.77
+UNT-1109,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,42R,available,199.34,498.35
+UNT-1110,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,S,rented,185.18,277.77
+UNT-1111,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,L,dry_cleaning,182.13,364.26
+UNT-1112,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,42R,rented,301.51,603.02
+UNT-1113,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,XL,rented,183.49,275.24
+UNT-1114,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,XL,available,204.62,511.55
+UNT-1115,PRD-110,Pinstripe Tailored Suit,Dior,40R,available,304.4,456.6
+UNT-1116,PRD-110,Pinstripe Tailored Suit,Dior,L,available,313.6,470.4
+UNT-1117,PRD-110,Pinstripe Tailored Suit,Dior,XS,available,258.54,646.35
+UNT-1118,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,44L,rented,141.39,424.17
+UNT-1119,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,S,available,210.71,632.13
+UNT-1120,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,40R,available,293.91,734.78
+UNT-1121,PRD-110,Pinstripe Tailored Suit,Dior,44L,rented,264.38,660.95
+UNT-1122,PRD-106,Embellished Clutch Bag,Prada,L,dry_cleaning,86.93,260.79
+UNT-1123,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,42R,rented,186.82,467.05
+UNT-1124,PRD-101,Silk Velvet Evening Gown,Gucci,42R,dry_cleaning,205.46,410.92
+UNT-1125,PRD-106,Embellished Clutch Bag,Prada,XL,available,150.43,376.08
+UNT-1126,PRD-109,Velvet Dinner Jacket,Alexander McQueen,XS,rented,196.75,393.5
+UNT-1127,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,42R,rented,156.44,469.32
+UNT-1128,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,42R,rented,173.03,346.06
+UNT-1129,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,L,available,193.97,581.91
+UNT-1130,PRD-109,Velvet Dinner Jacket,Alexander McQueen,44L,available,309.53,773.82
+UNT-1131,PRD-106,Embellished Clutch Bag,Prada,42R,available,100.11,150.16
+UNT-1132,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,38R,available,173.59,347.18
+UNT-1133,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,L,rented,147.65,369.12
+UNT-1134,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,L,available,179.7,449.25
+UNT-1135,PRD-101,Silk Velvet Evening Gown,Gucci,44L,available,186.37,279.56
+UNT-1136,PRD-109,Velvet Dinner Jacket,Alexander McQueen,XL,rented,187.68,563.04
+UNT-1137,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,XS,rented,191.63,574.89
+UNT-1138,PRD-106,Embellished Clutch Bag,Prada,M,in_inspection,100.2,300.6
+UNT-1139,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,S,available,148.15,222.23
+UNT-1140,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,M,dry_cleaning,370.84,556.26
+UNT-1141,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,S,rented,161.62,323.24
+UNT-1142,PRD-109,Velvet Dinner Jacket,Alexander McQueen,40R,rented,231.98,695.94
+UNT-1143,PRD-105,Cashmere Belted Trench Coat,Burberry,XS,rented,246.21,492.42
+UNT-1144,PRD-104,Double-Breasted Italian Blazer,Giorgio Armani,XL,rented,135.71,271.42
+UNT-1145,PRD-109,Velvet Dinner Jacket,Alexander McQueen,S,available,227.19,681.57
+UNT-1146,PRD-105,Cashmere Belted Trench Coat,Burberry,XS,available,241.9,725.7
+UNT-1147,PRD-102,Sequined Off-Shoulder Dress,Zimmermann,L,in_inspection,226.66,453.32
+UNT-1148,PRD-107,Floral Print Chiffon Midi Dress,Oscar de la Renta,S,rented,201.24,503.1
+UNT-1149,PRD-103,Peak Lapel Wool Tuxedo,Tom Ford,S,available,342.67,856.68
+UNT-1150,PRD-108,Structured Satin Cocktail Dress,Saint Laurent,S,rented,202.57,607.71

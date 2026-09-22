@@ -1,0 +1,8 @@
+unit_id,product_id,title,brand,size,status,base_rental_fee,security_deposit
+UNT-1001,PRD-501,Evening Silk Gown,Gucci,S,Available,120.00,50.00
+UNT-1002,PRD-502,Velvet Tuxedo,Tom Ford,M,Available,150.00,60.00
+UNT-1003,PRD-503,Party Wear Dress,Zara,S,In Cleaning,75.00,30.00
+UNT-1004,PRD-504,Bridal Lehenga,Sabyasachi,L,Rented,250.00,100.00
+UNT-1005,PRD-505,Cocktail Dress,Prada,M,Available,95.00,40.00
+UNT-1006,PRD-506,Designer Anarkali,Manish Malhotra,L,Available,180.00,70.00
+UNT-1007,PRD-507,Classic Black Suit,Hugo Boss,XL,Available,110.00,45.00
